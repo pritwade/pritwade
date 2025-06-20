@@ -1,16 +1,19 @@
-👋 Hi, I’m @pritwade
-🎓 Currently pursuing Business Insights and Analytics at Humber Polytechnic, Canada.
-🔍 Passionate about data science, analytics, and solving real-world problems with data.
+# 👋 Hi, I’m Prit Wade (@pritwade)
 
-💡 Interests:
+🎓 I'm currently pursuing **Business Insights and Analytics** at **Humber Polytechnic, Canada**.  
+🔍 I’m passionate about **data science**, **analytics**, and using data to solve real-world business problems.
 
-Data analysis & visualization
+## 💡 Interests
+- Data analysis & visualization  
+- Business intelligence (Power BI, SQL)  
+- Machine learning fundamentals  
 
-Business intelligence
+## 🤝 Let’s Connect
+I'm open to collaborations on data projects involving insights generation, reporting, and decision-making tools.
 
-Machine learning fundamentals
+📫 **Connect with me**:  
+- [LinkedIn](https://www.linkedin.com/in/pritwade)  
+- 📧 Email: pritwade28@gmail.com
 
-🤝 Looking to collaborate on data projects involving insights generation, reporting, and decision-making tools.
-📫 Let’s connect on LinkedIn or via email!
-😄 Pronouns: He/Him
-⚽ Fun fact: Football lover and the go-to guy for jokes—turns out data and humor go well together!
+## 😄 Fun Fact
+⚽ I’m a football enthusiast and the go-to guy for jokes — because data is better when you’re having fun with it!
